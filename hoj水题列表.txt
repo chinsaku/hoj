@@ -1,0 +1,186 @@
+大家刚刚接触C语言，下面的题目绝大部分都是模拟题，可以及时巩固课堂所学的知识。大家可以利用课余时间到HOJ刷题，祝大家天天AC,天天进步。
+如果对题目有问题的同学，可以在论坛发帖提问，鼓励大家相互讨论，TA们也会及时进行解答。
+最近两年的秋季校赛题目为
+2009 Fall 2893 - 2901
+2008 Fall 2755 - 2762
+Water List :
+1001 A+B
+1002 A+B+C
+1003 Mixing Milk 
+1004 Prime Palindromes
+1006 Weird Clock
+1010 The Angle
+1012 Decoding Task
+1039 Factorial
+1043 Maya Calendar
+1057 Mileage Bank
+1062 数列极差问题
+1076 Ordered Fractions
+1078 u Calculate e
+1080 Digital Roots
+1087 Self Numbers
+1089 Word Amalgamation
+1100 Simply Syntax
+1101 TEX Quotes
+1104 Expanding Fractions
+1107 Prime Cuts
+1109 Uniform Generator
+1110 Excuses, Excuses!
+1117 Octal Fractions
+1128 Perfect Cubes 
+1138 LC-Display 
+1148 Gridland
+1155 国家利益
+1205 Factors and Factorials
+1209 Cola
+1221 Perfect Pth Powers
+1224 Crazy Tea Party
+1238 Border
+1247 Perfection
+1263 Crypto Columns 
+1271 Biker's Trip Odometer
+1296 Big Number 
+1302 Sum of Factorials 
+1305 A Contesting Decision? 
+1307 Choose Your Words Carefully 
+1321 Parencodings 
+1331 Deck
+1337 Web Navigation
+1365 Digital Product
+1370 Candy
+1375 K-In-A-Row
+1401 Gigantic Sums
+1415 Does This Make Me Look Fat?
+1435 Integer Inquiry
+1439 The Circumference of the Circle
+1446 Binomial Showdown 
+1457 Error Correction 
+1459 Goldbach's Conjecture 
+1480 Diplomatic License 
+1489 ATDS
+1496 World Cup Noise 
+1518 Hard to Believe, but True! 
+1526 Drink, on Ice 
+1528 Factoring Large Numbers 
+1536 Substitution Cypher 
+1560 Factovisors 
+1595 There's Treasure Everywhere! 
+1610 Twenty Questions 
+1637 HangOver 
+1649 Count on Canton 
+1655 Yeehaa! 
+1684 Symmetric Order
+1685 Flow Layout 
+1688 Speed Limit 
+1696 No Brainer 
+1702 Team Rankings
+1703 To and Fro 
+1716 Ride to School 
+1722 The Peanuts
+1746 Filling Out the Team 
+(PE)1768 Mine Sweeper 
+1813 Primary Arithmetic 
+1848 Jolly Jumpers 
+1853 WERTYU 
+1863 整数的排序
+1864 Fibonacci
+1866 猩猩点灯
+(WA)1871 整数的表示 
+1881 Ones
+(WA)1882 All Integer Average
+1896 Average Speed
+1951 Beavergnaw
+1962 Above Average
+1973 Guessing Game
+1976 Calendar 
+1987 Recursive Function 
+1995 Venn Diagram 
+1997 Multiplying Matrices
+(Restricted Function)1999 Data Manager 题目较容易
+(TLE)2010 GCD & LCM Inverse 
+(TLE)????2011 Simple Problem 
+2012 Sort and Merge 
+2017 Peter's smokes 
+2026 Specialized Four-Digit Numbers
+2057 Complicated Translation? 
+2065 Fibonacci Number
+2066 Word Reversal 
+2067 Adding 1s, 2s, and 3s
+2071 Keep on Truckin' 
+2072 Blurred Vision 
+2076 Series Determination
+2089 4th point 
+2100 Beat the Spread!
+2105 Bungee Jumping
+2111 Electrical Outlets
+2122 Factstone Benchmark 
+2127 Ball bearings 
+2176 Pascal Library 
+2181 Take Your Vitamins 
+2201 Sum of Cubes 
+2212 It's My Derivative 
+2253 Choices
+2264 Standing 
+2267 Alice and Bob 
+2277 Another Apples
+2283 Emag eht htiw Em Pleh 
+2286 Help Me with the Game 
+(TTL)2293 Reduced ID Numbers? 
+2312 Gaus in Elementary School
+2314 Stamps 
+2323 01000001
+2331 Sequence Sum Possibilities
+2332 Ancient Keyboard 
+2342 Sum of Consecutive Prime Numbers 
+2363 House Numbers 
+2364 Rotten Ropes 
+2371 9-18 
+2411 Quick Change
+2412 Triangular Sums
+2433 Full of Energy 
+2437 Quicksum
+2443 Root of the Problem
+2449 Java vs C++? 
+2453 Nasty Hacks
+2476 Hurdles Race 
+2516(快排)
+
+2519 Fake coin
+2528 1 2 and 3
+2541 Merry Christmas
+2546 The right time 
+2562 Thanks giving Day 
+2564 Regional Ranklist 
+2567 Pell
+2571 Triangle 
+2588 Mispelling 
+2589 Conversions 
+？？？2590 Encoding同下 
+????2591 Decoding (模拟过程较为复杂)
+2597 Savings Account
+2601 GPA
+2603 Look and Say
+2620 The Dragon of Loowater? 
+2633 Puzzle I 
+2640 Have a Good Time
+？？？？2660 WORD 
+???2674 Ranking（样例错误？？？） 
+2689 Nail I 
+2710 Reaus! Sham! Beaux!
+2718 Smart Ray
+2730 Verdis Quo 
+2755 Great Niu VS Niu Team 
+2760 Integration Problem
+2761 Gibonacci Sequence 
+2769 Patterns and Pictures 
+2785 The Game 
+2786 Convert Kilometers to Miles 
+2773 Bones
+2782 Alfredo's Pizza Restaurant
+2808 Cylinder
+2869 Soda Surpler
+2892 YY, and YY again
+???2898 Would You Like Fish 
+???2899 X.O.X.O Gossip Girl? 
+2934 Simple Math Question
+2939 Coin Question
